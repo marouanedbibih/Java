@@ -1,4 +1,5 @@
-package interfaces.ex2;
+package interfaces.ex3;
+
 public class Main {
     public static void main(String[] args) {
         // Test of Complexe Class

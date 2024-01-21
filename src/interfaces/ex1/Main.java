@@ -1,8 +1,5 @@
 package interfaces.ex1;
 
-import abstraites.*;
-import interfaces.ex1.Personne;
-import interfaces.ex1.Profile;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
